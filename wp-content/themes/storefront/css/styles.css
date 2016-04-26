@@ -1,0 +1,526 @@
+body{
+	font-family: "Calibri";
+}
+
+a{
+	text-decoration: none;
+	color: #001526;
+	font-weight: normal;
+	border: none;
+	outline: none;
+}
+
+a:focus {
+	outline: none; 
+}
+
+
+button, input[type="button"], input[type="reset"], input[type="submit"], .button, .added_to_cart, .widget-area .widget a.button, .site-header-cart .widget_shopping_cart a.button {
+	background-color: #00f99a;
+	border: none;
+	color: #000;
+	font-family: "Calibri";
+	font-size: 16px;
+	font-weight: normal;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], textarea, .input-text {
+	box-shadow: none;
+}
+
+/**
+* Padrão
+*/
+
+.h2-subtitulo{
+	font-family: "Calibri";
+	font-size: 25px;
+	color: #001526;
+	font-weight: bold;
+}
+
+.relative{
+	position: relative;
+}
+
+/**
+* Header
+*/
+header .header-background {
+	background-color: #001526;
+	padding: 20px 0px 10px 0px;
+	position: relative;
+}
+
+#menu-login, #menu-usuario{
+	font-size: 14px;
+}
+
+	#menu-login li, #menu-usuario li {
+		display: block;
+		margin-bottom: 3px;
+	}
+
+	#menu-login a, #menu-usuario a{
+		color: #FFF;
+	}
+
+	#menu-login a:hover, #menu-usuario a:hover{
+		color: #00f99a ;
+	}
+
+	#menu-usuario li:last-child a{
+		color: #00f99a ;
+	}
+
+#header-cart{
+	
+}
+
+	#header-cart .cart-icon-count{
+		position: relative;
+	}
+
+	#header-cart .cart-icon-count span{
+		color: #FFF;
+		position: absolute;
+		top: -33px;
+		left: 45px;
+		font-size: 18px;
+	}
+
+#header-cart-container{
+	position: absolute;
+	width: 300px;
+	right: 0px;
+	background: #e2e2e2;
+	top: 50px;
+	display: none;
+}
+
+	#header-cart-container .site-header-cart .cart-contents:after {
+		content: "";
+	}
+
+#header-search{
+
+}
+
+	#search{
+		height: 50px;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-align-items: center;
+		align-items: center;
+		-webkit-justify-content: center;
+		justify-content: center;
+	}
+	#search input{
+		width: 390px;
+		height: 30px;
+		padding: 19px;
+		background-color: #FFF;
+		font-size: 12px;
+		font-family: Verdana;
+	}
+
+	#search button{
+		width: 40px;
+		height: 38px;
+		padding: 10px;
+		overflow: hidden;
+		text-indent: -1000px;
+		background: #00f99a url(../images/icon-search.png) center center no-repeat;
+		margin-left: 3px;
+	}
+
+#menu-principal {
+	margin-top: 20px;
+	display: block;
+	width: 100%;
+	font-size: 15px;
+}
+
+	#menu-principal li{
+		margin-right: 20px
+	}
+	#menu-principal a{
+		color: #ffffff;
+	}
+
+	#menu-principal .current-menu-item a{
+		color: #00f99a;
+	}
+
+	#menu-principal li{
+		display: inline;
+	}
+
+/**
+* Conteudo
+*/
+header{
+
+}
+main{
+	margin: 30px 0px;
+}
+
+#content{
+  /*display: block;*/
+  /*float: left;*/
+}
+
+	#content #home{
+	
+	}
+
+	#content #home #delivery{
+		text-align: center;
+		margin-bottom: 25px;
+	}
+
+		#content #home #delivery img{
+			width: 880px;
+			height: auto;
+			margin: auto;
+		}
+
+	#home #banners{
+		height: 368px;
+		overflow: hidden;
+	}
+
+	#home #destaques{
+		margin: 25px 0px;
+	}
+
+
+/**
+* Produtos
+*/
+
+#produtos{
+	
+}
+
+	.products {
+		display: block;
+		width: 100%;
+	}
+
+	ul.products li.product {
+		display: inline-block;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 20px;
+		font-family: Verdana;
+		position: relative;
+		width: 300px;
+	}
+
+	ul.products li.product.first {
+		margin-left: 0px;
+	}
+
+	ul.products li.product.last {
+		margin-right: 0px;
+	}
+
+	ul.products li.product h1{
+		background-color: #d8d8d8;
+		text-align: center;
+		padding: 15px 0px;
+		font-weight: normal;
+		font-family: Verdana;
+  		font-size: 16px;
+  		color: #000;
+	}
+
+	ul.products li.product a{
+		color: #000;
+	}
+
+	ul.products li.product .wp-post-image{
+		width: 300px;
+		height: 330px;
+	}
+
+	ul.products li.product .price{
+		background-color: #00f99a;
+		position: absolute;
+		top: 295px;
+		right: 0px;
+		padding: 8px 15px;
+		font-family: Calibri;
+		height: 35px;
+		font-size: 16px;
+		color: #000;
+		font-size: 16px;
+	}
+
+		ul.products li.product .price del{
+			color: #FFF;
+		}
+
+		ul.products li.product .price del .amount{
+			color: #FFF;
+			font-size: 12px;
+			bottom: 5px;
+		}
+
+	.outofstock:before {
+		content: "";
+		display: block;
+		position: absolute;
+		width: 150px;
+		height: 150px;
+		background: transparent url(../images/sold-out.png) top right no-repeat;
+		top: 0px;
+		left: 0px;
+		z-index: 2;
+	}
+
+/**
+* Footer
+*/
+footer .footer-background{
+	background-color: #e2e2e2;
+	padding: 50px 0px;
+}
+
+#newsletter{
+	
+}
+
+	#newsletter .wysija-input{
+		width: 95%;
+		padding: 10px 5px;
+		margin-top: 10px;
+		border: 1px solid #000;
+		font-family: Verdana;
+		font-size: 12px;
+	}
+
+	#newsletter .wysija-submit{
+		margin-top: 10px;
+		height: 37px;
+		padding: 0 20px;
+	}
+
+	#newsletter .social{
+		text-align: center;
+	}
+
+#payment-methods {
+	margin-top: 30px;
+}
+
+footer .footer-background-2{
+	background-color: #d2d2d2;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#footer-menu{
+	font-family: Verdana
+}
+
+	#footer-menu h2{
+		font-size: 15px;
+		margin-bottom: 20px;
+	}
+
+	#footer-menu ul {
+	
+	}
+	
+	#footer-menu ul li{
+		line-height: 20px;
+		font-size: 13px;
+	}
+
+	#footer-menu ul li a{
+		color: #60646c;
+		font-weight: normal;
+	}
+
+
+/**
+* Paginas internas
+*/
+#page{
+	
+}
+
+/**
+* Pagina Login / Cadastro
+*/
+
+.box-cinza{
+	background-color: #e2e2e2;
+	min-height: 460px;
+}
+
+.box-cinza-padding{
+	padding: 20px;
+}
+
+.form-login-register{
+	padding: 50px 20px 0px;
+}
+
+	.form-login-register label{
+		font-family: "Calibri";
+		font-size: 18px;
+		color: #000;
+		font-weight: normal;
+	}
+
+	.form-login-register .button{
+		background-color: #00f99a;
+		margin-top: 30px;
+		color: #000;
+		font-family: Calibri;
+		font-size: 20px;
+		letter-spacing: 2px;
+		font-weight: normal;
+	}
+
+	.form-login-register .button:hover{
+		background-color: #00f99a;
+	}
+
+	.form-login-register .lost-password{
+		margin: 20px 0px 0px;
+	}
+
+		.form-login-register .lost-password a{
+			color: #2795bd;
+			text-decoration: underline;
+		}
+
+	.form-login-register .input-text{
+		padding: 10px 5px;
+		margin-top: 10px;
+		border: 1px solid #acacac;
+		font-family: Verdana;
+		font-size: 12px;
+		width: 80%;
+		background-color: #FFF;
+	}
+
+/**
+* Mensagens
+*/
+.woocommerce .woocommerce-message{
+	background-color: #00f99a;
+	color: #001526;
+}
+
+.woocommerce .woocommerce-error{
+	background-color: #fe3657;
+}
+
+/**
+* Categorias
+*/
+.storefront-sorting select {
+  width: 300px;
+}
+
+
+/**
+* Carrinho
+*/
+table.cart thead{
+	background-color: #dddddd;
+}
+
+table.cart thead th{
+	text-indent: 0px;
+	padding: .857em 1.387em;
+	font-size: 20px;
+	color: #696b6b;
+	font-family: "Calibri";
+}
+
+table.cart tbody .cart_item{
+	background-color: #f1f0f0;
+	/*border-bottom: 1px solid #696b6b;*/
+}
+
+table.cart tbody tr:nth-child(odd) {
+   background-color: #FFF;
+}
+
+table.cart .product-subtotal{
+	text-align: right;
+}
+
+table.cart .product-quantity{
+	text-align: center;
+}
+
+table.cart .actions{
+	background-color: #dfdfdf;
+}
+
+table.cart .actions .input-text{
+	height: 38px;
+}
+
+.cart-collaterals .cart_totals, .cart-collaterals .shipping_calculator {
+	width: 100%;
+}
+
+.cart-collaterals .cart_totals th, .cart-collaterals .shipping_calculator th{
+	width: 30%;
+}
+
+.cart-collaterals .cart_totals td, .cart-collaterals .shipping_calculator td{
+	width: 70%;
+}
+
+ul#shipping_method{
+	font-family: "Calibri";
+	font-weight: normal;
+}
+
+ul#shipping_method li{
+	display: block;
+	padding: 5px 0px;
+}
+
+ul#shipping_method li .shipping_method{
+	margin-right: 10px;
+}
+
+table.cart-subtotal .total-geral{
+	text-align: center;
+	font-size: 25px;
+}
+
+.woocommerce-shipping-calculator .shipping-calculator-form{
+	display: block !important;
+}
+
+.woocommerce-shipping-calculator .shipping-calculator-form select, .woocommerce-shipping-calculator .shipping-calculator-form input{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.wc-proceed-to-checkout {
+	margin-bottom: 0px; 
+}
+
+.wc-proceed-to-checkout .button.checkout-button {
+  font-size: 20px;
+}
+
+button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .added_to_cart.alt, .widget-area .widget a.button.alt, .added_to_cart, .pagination .page-numbers li .page-numbers.current, .woocommerce-pagination .page-numbers li .page-numbers.current {
+	background-color: #00f99a;
+	color: #000;
+}

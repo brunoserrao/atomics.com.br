@@ -1,0 +1,4322 @@
+04-15-2015 @ 01:27:22 - Cart only with virtual products.
+04-15-2015 @ 01:28:00 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 01:28:00 - Requesting the Correios WebServices...
+04-15-2015 @ 01:28:00 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:00 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:00 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 01:28:06 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 01:28:06 - Requesting the Correios WebServices...
+04-15-2015 @ 01:28:07 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:07 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:07 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 01:28:25 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 01:28:25 - Requesting the Correios WebServices...
+04-15-2015 @ 01:28:26 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:26 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:26 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 01:28:26 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 01:28:26 - Requesting the Correios WebServices...
+04-15-2015 @ 01:28:26 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 01:28:26 - Requesting the Correios WebServices...
+04-15-2015 @ 01:28:26 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:26 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:26 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 01:28:27 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:27 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:28:27 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 01:30:48 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 01:30:48 - Requesting the Correios WebServices...
+04-15-2015 @ 01:30:48 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:30:48 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 01:30:48 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 04:56:53 - Cart only with virtual products.
+04-15-2015 @ 04:56:59 - Cart only with virtual products.
+04-15-2015 @ 04:58:17 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 04:58:17 - Requesting the Correios WebServices...
+04-15-2015 @ 04:58:18 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:58:18 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:58:18 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 04:58:20 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 04:58:20 - Requesting the Correios WebServices...
+04-15-2015 @ 04:58:20 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:58:20 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:58:20 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 04:59:32 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 04:59:32 - Requesting the Correios WebServices...
+04-15-2015 @ 04:59:33 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:59:33 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:59:33 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 04:59:35 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 04:59:35 - Requesting the Correios WebServices...
+04-15-2015 @ 04:59:36 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:59:36 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 04:59:36 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 05:17:44 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 05:17:44 - Requesting the Correios WebServices...
+04-15-2015 @ 05:17:45 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,00
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,30
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:17:45 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,30
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,30
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:17:45 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 05:19:03 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 05:19:03 - Requesting the Correios WebServices...
+04-15-2015 @ 05:19:04 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,00
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,30
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:19:04 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,30
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,30
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:19:04 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 05:21:14 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 05:21:14 - Requesting the Correios WebServices...
+04-15-2015 @ 05:21:14 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,00
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,30
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:21:14 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,30
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,30
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:21:14 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 05:48:48 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 05:48:48 - Requesting the Correios WebServices...
+04-15-2015 @ 05:48:48 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,53
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,83
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:48:48 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,83
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,83
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:48:48 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 05:50:10 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 05:50:10 - Requesting the Correios WebServices...
+04-15-2015 @ 05:50:10 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 17,15
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 3,45
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:50:10 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 17,45
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 3,45
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:50:10 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 05:51:41 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 05:51:41 - Requesting the Correios WebServices...
+04-15-2015 @ 05:51:42 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 17,15
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 3,45
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:51:42 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 17,45
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 3,45
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 05:51:42 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 12:11:24 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 12:11:24 - Requesting the Correios WebServices...
+04-15-2015 @ 12:11:25 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,53
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,83
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 12:11:25 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,83
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,83
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 12:11:25 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 12:12:52 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 12:12:52 - Requesting the Correios WebServices...
+04-15-2015 @ 12:12:53 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,05
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,35
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 12:12:53 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,35
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,35
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 12:12:53 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 12:12:58 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 12:12:58 - Requesting the Correios WebServices...
+04-15-2015 @ 12:12:58 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,05
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,35
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 12:12:58 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,35
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,35
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 12:12:58 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 13:31:13 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 16
+    [weight] => 0
+)
+
+04-15-2015 @ 13:31:13 - Requesting the Correios WebServices...
+04-15-2015 @ 13:31:14 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 13:31:14 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 13:31:14 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 14:35:46 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 14:35:46 - Requesting the Correios WebServices...
+04-15-2015 @ 14:35:47 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,38
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,68
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 14:35:47 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,68
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,68
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 14:35:47 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 14:38:14 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 14:38:14 - Requesting the Correios WebServices...
+04-15-2015 @ 14:38:14 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 14:38:14 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 14:38:14 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 15:52:10 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 15:52:10 - Requesting the Correios WebServices...
+04-15-2015 @ 15:52:11 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:52:11 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:52:11 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 15:54:41 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 15:54:41 - Requesting the Correios WebServices...
+04-15-2015 @ 15:54:42 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:54:42 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:54:42 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 15:54:47 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 15:54:47 - Requesting the Correios WebServices...
+04-15-2015 @ 15:54:47 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:54:47 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:54:47 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 15:54:52 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 15:54:52 - Requesting the Correios WebServices...
+04-15-2015 @ 15:54:53 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:54:53 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 15:54:53 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 16:52:38 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 16:52:38 - Requesting the Correios WebServices...
+04-15-2015 @ 16:52:39 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 16:52:39 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 16:52:39 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 16:52:47 - Cart only with virtual products.
+04-15-2015 @ 16:53:59 - Cart only with virtual products.
+04-15-2015 @ 16:54:22 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 16:54:22 - Requesting the Correios WebServices...
+04-15-2015 @ 16:54:22 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 16:54:22 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 16:54:22 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 16:54:37 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 16:54:37 - Requesting the Correios WebServices...
+04-15-2015 @ 16:54:37 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 16:54:37 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 16:54:37 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 16:55:59 - Cart only with virtual products.
+04-15-2015 @ 16:57:18 - Cart only with virtual products.
+04-15-2015 @ 17:00:34 - Cart only with virtual products.
+04-15-2015 @ 17:00:48 - Cart only with virtual products.
+04-15-2015 @ 17:01:27 - Cart only with virtual products.
+04-15-2015 @ 17:02:14 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:02:14 - Requesting the Correios WebServices...
+04-15-2015 @ 17:02:14 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:02:14 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:02:14 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:02:24 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:02:24 - Requesting the Correios WebServices...
+04-15-2015 @ 17:02:24 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:02:24 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:02:24 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:03:26 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:03:26 - Requesting the Correios WebServices...
+04-15-2015 @ 17:03:26 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:26 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:26 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:03:40 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:03:40 - Requesting the Correios WebServices...
+04-15-2015 @ 17:03:40 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:40 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:40 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:03:50 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:03:50 - Requesting the Correios WebServices...
+04-15-2015 @ 17:03:50 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:50 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:50 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:03:54 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:03:54 - Requesting the Correios WebServices...
+04-15-2015 @ 17:03:55 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:55 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:03:55 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:05:50 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:05:50 - Requesting the Correios WebServices...
+04-15-2015 @ 17:05:50 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:05:50 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:05:50 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:06:07 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:06:07 - Requesting the Correios WebServices...
+04-15-2015 @ 17:06:08 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:06:08 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:06:08 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:06:15 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:06:15 - Requesting the Correios WebServices...
+04-15-2015 @ 17:06:16 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:06:16 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:06:16 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:07:07 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:07:07 - Requesting the Correios WebServices...
+04-15-2015 @ 17:07:08 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:07:08 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:07:08 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:13:08 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 16
+    [weight] => 0
+)
+
+04-15-2015 @ 17:13:08 - Requesting the Correios WebServices...
+04-15-2015 @ 17:13:09 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:13:09 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:13:09 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:13:15 - Cart only with virtual products.
+04-15-2015 @ 17:20:13 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:20:13 - Requesting the Correios WebServices...
+04-15-2015 @ 17:20:13 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:20:13 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:20:13 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:20:18 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:20:18 - Requesting the Correios WebServices...
+04-15-2015 @ 17:20:18 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:20:18 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:20:18 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-15-2015 @ 17:20:43 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-15-2015 @ 17:20:43 - Requesting the Correios WebServices...
+04-15-2015 @ 17:20:43 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,90
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:20:43 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,20
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,20
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-15-2015 @ 17:20:43 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 02:10:29 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 02:10:29 - Requesting the Correios WebServices...
+04-16-2015 @ 02:10:30 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,65
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 02:10:30 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,95
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 02:10:30 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 02:11:07 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 02:11:07 - Requesting the Correios WebServices...
+04-16-2015 @ 02:11:08 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,65
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 02:11:08 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,95
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 02:11:08 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 12:27:49 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 12:27:49 - Requesting the Correios WebServices...
+04-16-2015 @ 12:28:17 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,65
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 12:28:17 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,95
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 12:28:17 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 12:29:38 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 12:29:38 - Requesting the Correios WebServices...
+04-16-2015 @ 12:29:38 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,65
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 12:29:38 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,95
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 12:29:38 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:12:27 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 16
+    [weight] => 0
+)
+
+04-16-2015 @ 19:12:27 - Requesting the Correios WebServices...
+04-16-2015 @ 19:12:29 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:12:29 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:12:29 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:12:45 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 19:12:45 - Requesting the Correios WebServices...
+04-16-2015 @ 19:12:46 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,33
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 2,63
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:12:46 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,63
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 2,63
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:12:46 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:14:18 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 19:14:18 - Requesting the Correios WebServices...
+04-16-2015 @ 19:14:19 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,33
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 2,63
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:19 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,63
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 2,63
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:19 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:14:41 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 19:14:41 - Requesting the Correios WebServices...
+04-16-2015 @ 19:14:42 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,65
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:42 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,95
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,95
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:42 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:14:44 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 19:14:44 - Requesting the Correios WebServices...
+04-16-2015 @ 19:14:45 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 15,13
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,43
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:45 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,43
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,43
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:45 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:14:51 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 19:14:51 - Requesting the Correios WebServices...
+04-16-2015 @ 19:14:52 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,45
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,75
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:52 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,75
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,75
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:14:52 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:17:30 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 19:17:30 - Requesting the Correios WebServices...
+04-16-2015 @ 19:17:31 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,45
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,75
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:17:31 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,75
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,75
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 19:17:31 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 19:17:31 - Correios WebServices response [SEDEX Hoje]: SimpleXMLElement Object
+(
+    [Codigo] => 40290
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:02:34 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:02:34 - Requesting the Correios WebServices...
+04-16-2015 @ 20:02:35 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,98
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:02:35 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,28
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:02:35 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:02:41 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:02:41 - Requesting the Correios WebServices...
+04-16-2015 @ 20:02:41 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,98
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:02:41 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,28
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:02:41 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:03:10 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:03:10 - Requesting the Correios WebServices...
+04-16-2015 @ 20:03:10 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,98
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:03:10 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,28
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:03:10 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:03:29 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:03:29 - Requesting the Correios WebServices...
+04-16-2015 @ 20:03:30 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,98
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:03:30 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,28
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:03:30 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:04:16 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:04:16 - Requesting the Correios WebServices...
+04-16-2015 @ 20:04:17 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,78
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:04:17 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,08
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:04:17 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:04:58 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:04:58 - Requesting the Correios WebServices...
+04-16-2015 @ 20:04:58 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,98
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:04:58 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,28
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,28
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:04:58 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:05:05 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:05:05 - Requesting the Correios WebServices...
+04-16-2015 @ 20:05:05 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,78
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:05:05 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,08
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:05:05 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:06:34 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:06:34 - Requesting the Correios WebServices...
+04-16-2015 @ 20:06:35 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,78
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:06:35 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,08
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:06:35 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:08:22 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:08:22 - Requesting the Correios WebServices...
+04-16-2015 @ 20:08:23 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 14,78
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:08:23 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 15,08
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 1,08
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:08:23 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:13:44 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:13:44 - Requesting the Correios WebServices...
+04-16-2015 @ 20:13:48 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:13:48 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:13:48 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+
+04-16-2015 @ 20:13:55 - Weight and cubage of the order: Array
+(
+    [height] => 2
+    [length] => 16
+    [width] => 11
+    [weight] => 0
+)
+
+04-16-2015 @ 20:13:55 - Requesting the Correios WebServices...
+04-16-2015 @ 20:13:56 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 13,70
+    [PrazoEntrega] => 3
+    [ValorSemAdicionais] => 13,70
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:13:56 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 14,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 14,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+04-16-2015 @ 20:13:56 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 0,00
+    [PrazoEntrega] => 0
+    [ValorSemAdicionais] => 0,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => SimpleXMLElement Object
+        (
+        )
+
+    [EntregaSabado] => SimpleXMLElement Object
+        (
+        )
+
+    [Erro] => 16
+    [MsgErro] => Tarifa não cadastrada para região de tarifação ou cep informados
+)
+

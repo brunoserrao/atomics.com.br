@@ -1,0 +1,60 @@
+body{
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+    background-color: #001526;
+}
+
+#content{
+	width: 100%;
+	height: 100%;
+}
+
+	#atomic{
+		width: 357px;
+		height: 581px;
+		position: absolute;
+		top: 0px;
+		left: 50%;
+		margin-left: -178px;
+	}
+
+	#social{
+		width: 100%;
+		height: 61px;
+		position: absolute;
+		top: 600px;
+		text-align: center;
+	}
+
+		#social a{
+			width: 61px;
+			height: 61px;
+			display: inline-block;
+			margin-right: 0px;
+            margin-left: 40px;
+            overflow: hidden;
+            text-indent: -1000px;
+		}
+
+		#social #facebook, #social #instagram{
+            background-repeat: no-repeat;
+            background-position: 0px 0px;
+        }
+
+        #social #facebook{
+            background-image: url(../img/facebook.png);
+        }
+
+        #social #facebook:hover{
+            background-position: 0px -61px;
+        }
+
+        #social #instagram{
+            background-image: url(../img/instagram.png);
+        }
+
+        #social #instagram:hover{
+            background-position: 0px -61px;
+        }
